@@ -1,0 +1,9 @@
+run = "npm run dev:all"
+entrypoint = "index.js"
+
+[env]
+# Expose Vite on 5173 and Express on 8080
+PORT = "5173"
+
+[interpreter]
+command = [ "bash", "-lc" ]
