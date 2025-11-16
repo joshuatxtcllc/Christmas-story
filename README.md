@@ -60,7 +60,7 @@ Jay’s Frames is an AI-powered e-commerce platform that creates custom cartoon 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/jaysframes.git
+git clone https://github.com/joshuatxtcllc/Christmas-story
 cd jaysframes
 ```
 
